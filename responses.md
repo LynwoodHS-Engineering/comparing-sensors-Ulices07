@@ -1,5 +1,5 @@
 1. What is the actual physical process that is allowing the Raspberry Pi to sense the environmnet?
-   The physical process that allows the Raspberry Pi to sense the environment is through the sensors where physical touch and distance is used to detect environmental conditons and then converted into electrical signals that the Raspberry Pi can interpret. 
+   The physical process that allows the Raspberry Pi to sense the environment is through the sensors where physical touch and distance is used to detect environmental conditons and then converted into electrical signals that the Raspberry Pi can interpret. It starts off where I plug in the pins into the breadboard and to the Raspberry Pi so energy from the Raspberry Pi transfers to the breadboard where I then plug in the sensors and use energy from the breadboard to turn them on. I then write and save the code and make it run which the Raspberry runs the code, processes it and then give off readable information back to me, understanding the signals from the sensors. 
 2. What are some environmental factors that might influence the performance of these sensors?
    Some environment factors can be wind, dust, heat, water or humidity which can all affect the sensors in giving off improper signals. 
 3. What role does coding play in this process?
